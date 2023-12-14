@@ -1,0 +1,4 @@
+"trial_type","trial_index","time_elapsed","internal_node_id","subject","success","rt","item_width_mm","item_height_mm","item_width_px","px2mm","view_dist_mm","item_width_deg","px2deg","win_width_deg","win_height_deg"
+"pavlovia","0","535","0.0-0.0","6hj1v","","","","","","","","","","",""
+"fullscreen","1","3089","0.0-1.0","6hj1v","true","1550","","","","","","","","",""
+"virtual-chinrest","2","581102","0.0-2.0","6hj1v","","578007","85.6","53.98","250","2.92","240.12","20.21300363382824","12.368275617464542","116.42690093085065","72.76681308178166"
